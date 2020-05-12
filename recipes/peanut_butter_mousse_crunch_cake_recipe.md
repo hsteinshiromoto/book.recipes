@@ -39,7 +39,7 @@ Total time: 2 hours
 ## Dark chocolate ganache
 
 * ¾ cup + 3 tablespoons \| 220 grams heavy cream
-* 3 tablespoons\|45 grams whole milk
+* 3 tablespoons \| 45 grams whole milk
 * 7 ¼ ounces \| 220 grams semisweet or bittersweet dark chocolate, chopped
 * 1 ½ tablespoons \| 45 grams unsalted butter, at room temperature
 
