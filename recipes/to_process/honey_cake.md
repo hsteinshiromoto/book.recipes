@@ -1,6 +1,21 @@
 
-The Most Amazing Russian Honey Cake {#the-most-amazing-russian-honey-cake .post-title}
+The Most Amazing Russian Honey Cake
 ===================================
+
+- [The Most Amazing Russian Honey Cake](#the-most-amazing-russian-honey-cake)
+- [Recipe](#recipe)
+  - [Ingredients](#ingredients)
+    - [For the Burnt Honey:](#for-the-burnt-honey)
+    - [For the Cake Layers:](#for-the-cake-layers)
+    - [For the Frosting:](#for-the-frosting)
+  - [Instructions](#instructions)
+    - [To prepare baking sheets:](#to-prepare-baking-sheets)
+    - [To make the Burnt Honey:](#to-make-the-burnt-honey)
+    - [To make the Cake Layers:](#to-make-the-cake-layers)
+    - [To make the Frosting:](#to-make-the-frosting)
+    - [To assemble the cake:](#to-assemble-the-cake)
+- [Notes](#notes)
+- [References](#references)
 
 The ultimate recipe for Russia's famous Honey Cake, that you're
 likely to encounter.  Ten layers of soft, caramelized honey cakes that
@@ -61,10 +76,7 @@ picky.  I later tried a slice at a restaurant in Cairo, and everyone who
 had tasted it was very underwhelmed by it.  That's when I came to the
 conclusion, that perhaps Russian Honey Cake wasn't for me.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/full-russian-side.jpg){.size-full
-.wp-image-6003 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/full-russian-side.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/full-russian-side-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/full-russian-side-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/full-russian-side.jpg)
 
 That is until a few months later, when I received my subscribed
 newsletter from [Treat SF's
@@ -82,10 +94,7 @@ and that's when I knew, that this could be the one I'm searching for.
 And so I'm here today, to happily report back that it truly *is*.  THE
 ONE!  An absolute perfection.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/honey-slice.jpg){.size-full
-.wp-image-6006 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/honey-slice.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/honey-slice-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/honey-slice-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/honey-slice.jpg)
 
 Ten thin layers of soft, airy cakes that taste like the fine marriage of
 Lotus biscuits, honey graham crackers and gingerbread cookies,
@@ -101,10 +110,7 @@ which allows the flavors to intertwine and the layers  to soak in some
 of the frosting, which softens them up into melt-in-the-mouth bites.
  It's a thing of dreams I tell you.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/inner-slice.jpg){.size-full
-.wp-image-6026 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/inner-slice.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/inner-slice-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/inner-slice-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/inner-slice.jpg)
 
 The secret that sets this cake apart from its counterparts lies in 2
 brilliant twists rather than a special ingredient:
@@ -114,18 +120,12 @@ layers into thin, spongy cakes." [-NY Times.
  ]{style="font-size: 10pt;"}**[That makes for a softer, lighter cake
 that slices like butter.]{style="font-size: 12pt;"}
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/honey-stack.jpg){.size-full
-.wp-image-6004 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/honey-stack.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/honey-stack-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/honey-stack-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/honey-stack.jpg)
 
 **2) Burning the honey used in both the cake and frosting, to the point
 of caramelization!**
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/burnt-honey.jpg){.size-full
-.wp-image-6010 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/burnt-honey.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/burnt-honey-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/burnt-honey-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/burnt-honey.jpg)
 
 This trick not only adds a more concentrated and pronounced honey
 flavor, but introduces toffee notes, bitterness and acidity, that was
@@ -134,10 +134,7 @@ revelation, combined with glorious dulce de leche (thick caramel made
 from sweetened condensed milk), made for an incredible sweet and tangy
 whipped frosting, that eliminated that need for sour cream.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/frosting-swirls.jpg){.size-full
-.wp-image-6005 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/frosting-swirls.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/frosting-swirls-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/frosting-swirls-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/frosting-swirls.jpg)
 
 Now I'm not gonna lie...this cake *is* a project.  It's not hard and the
 process is pretty straightforward, but it is time-consuming and requires
@@ -150,10 +147,7 @@ But trust me...the fruit of your labor, will be well worth the effort.
  It truly is a stunning, showstopping dessert, that is sure to create a
 buzzzzzzzz in any special occasion.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/full-mood-sliced.jpg){.size-full
-.wp-image-6008 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/full-mood-sliced.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/full-mood-sliced-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/full-mood-sliced-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/full-mood-sliced.jpg)
 
 The second time I made this, which was for the pictures you see here, I
 divided the work over the course of 3 days and the results were every
@@ -167,10 +161,7 @@ day.  I'm telling you this, just to assure you, that you can relax the
 process by making some of the components ahead of time, without
 sacrificing the outcome.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/close-up-slice.jpg){.size-full
-.wp-image-6007 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/close-up-slice.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/close-up-slice-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/close-up-slice-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/close-up-slice.jpg)
 
 So!  Are you ready to do this?!  I most certainly am!
 
@@ -188,19 +179,13 @@ deep amber.  As soon as it reaches this point, remove the pan from the
 heat and whisk in 1/4 cup of water.  So that's your Burnt Honey all
 done.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/honey-stages.jpg){.size-full
-.wp-image-6009 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/honey-stages.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/honey-stages-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/honey-stages-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/honey-stages.jpg)
 
 Now you're going to take 1/4 cup of that glorious burnt honey and
 combine it with regular "unburnt" honey, sugar and butter and set over a
 pan of simmering water.  Stir until the butter has completely melted.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/melt-honeystuff.jpg){.size-full
-.wp-image-6011 .aligncenter width="600" height="450"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/melt-honeystuff.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/melt-honeystuff-300x225.jpg 300w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/melt-honeystuff.jpg)
 
 The mixture should feel pleasantly warm at this stage, in which you're
 going to whisk in the eggs.  Continue whisking until the mixture becomes
@@ -208,18 +193,12 @@ warm to the touch again.  At that point, stir in a mixture of cinnamon,
 baking soda and salt.  You'll notice that the mixture will smell weird.
  That's ok...you're on the right track.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/eggs-and-cinnamon.jpg){.size-full
-.wp-image-6012 .aligncenter width="600" height="450"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/eggs-and-cinnamon.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/eggs-and-cinnamon-300x225.jpg 300w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/eggs-and-cinnamon.jpg)
 
 Now you can sift the flour over the batter in 3 parts, whisking well to
 combine after each addition.  Batter should be very smooth.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/flour-honey.jpg){.size-full
-.wp-image-6013 .aligncenter width="600" height="450"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/flour-honey.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/flour-honey-300x225.jpg 300w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/flour-honey.jpg)
 
 That wasn't hard...wasn't it?
 
@@ -239,18 +218,12 @@ the circle, the spread it to the edges of the traced circle. Make sure
 to slide the piece of paper from under the silicon mat, if using one,
 before baking.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/circle.jpg){.size-full
-.wp-image-6014 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/circle.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/circle-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/circle-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/circle.jpg)
 
 These guys bake very quickly, so stick around.  They'll bake in only 6
 to 7 minutes, or until they turn deep caramel colored.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/bakedcircle.jpg){.size-full
-.wp-image-6015 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/bakedcircle.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/bakedcircle-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/bakedcircle-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/bakedcircle.jpg)
 
 Continue with the rest of the batter until you have 11 layers of cake.
  If any of the layer's edges look wonky, give it a trim using a pair of
@@ -259,10 +232,7 @@ cake layer on a pan and toast them in the oven.  Once cooled, grind them
 into fine crumbs in a food processor.  Reserve those crumbs for
 decorating the cake.  It's ok...you could steal a taste; we're human.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/crumb-making.jpg){.size-full
-.wp-image-6017 .aligncenter width="600" height="450"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/crumb-making.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/crumb-making-300x225.jpg 300w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/crumb-making.jpg)
 
 Now that the layers are all done, time to move to the frosting.  Now
 grab a can of dulce de leche, and if you don't readily have it where you
@@ -277,27 +247,18 @@ reserved burnt honey and then stir in heavy whipping cream.  Chill for
 30 minutes (that's the down time I was talking about earlier...so now's
 the time to catch your breath).
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/dulce.jpg){.size-full
-.wp-image-6018 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/dulce.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/dulce-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/dulce-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/dulce.jpg)
 
 Phew!  Now that 30 minutes have passed, you can whip the remaining heavy
 whipping cream until soft peaks.  Then slowly drizzle in the cooled
 honey/dulce mixture.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/drizzle-dulce.jpg){.size-full
-.wp-image-6019 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/drizzle-dulce.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/drizzle-dulce-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/drizzle-dulce-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/drizzle-dulce.jpg)
 
 And whip until medium stiff peaks form.  Now's a good opportunity to
 steal a lick.  So good right?!
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/dulce-whipped.jpg){.size-full
-.wp-image-6020 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/dulce-whipped.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/dulce-whipped-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/dulce-whipped-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/dulce-whipped.jpg)
 
 Assembly time coming atchya!
 
@@ -306,28 +267,19 @@ layer.  It's going to look like a lot, but trust me and go for it!  Go
 for more than you think you need, because remember the cake will soak in
 some of it....so be generous.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/plop-frosting.jpg){.size-full
-.wp-image-6021 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/plop-frosting.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/plop-frosting-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/plop-frosting-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/plop-frosting.jpg)
 
 Now will you marvel at the beaut?!  I know you'll be tempted to leave
 the sides naked, but covering it up is essential in softening up all the
 layers.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/layered-russian.jpg){.size-full
-.wp-image-6022 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/layered-russian.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/layered-russian-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/layered-russian-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/layered-russian.jpg)
 
 Remember those crumbs we had saved for a rainy day?  Now's the time to
 use them.  So press them all over the sides, and if you want, over the
 top too.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/crumb-stick.jpg){.size-full
-.wp-image-6023 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/crumb-stick.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/crumb-stick-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/crumb-stick-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/crumb-stick.jpg)
 
 Can we get a YAY! here because ladies a gentlemen...mission
 accomplished.
@@ -335,10 +287,7 @@ accomplished.
 Not quite, but the rest of the work is the fridge's duty, so you're off
 the hook!  Let the cake sleep in there for a day or two.
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/chill-russian.jpg){.size-full
-.wp-image-6024 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/chill-russian.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/chill-russian-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/chill-russian-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/chill-russian.jpg)
 
 Top with those [cute Bumblebee
 decorations](https://www.amazon.com/Wilton-W7102916-Decorations-Bumblebee-18-Pack/dp/B009MRGZ38),
@@ -346,48 +295,16 @@ if you fancy!
 
 Then slice...lift...
 
-![](https://cleobuttera.com/wp-content/uploads/2018/10/slice-up-closer.jpg){.size-full
-.wp-image-6025 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/slice-up-closer.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/slice-up-closer-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/slice-up-closer-400x600.jpg 400w"}
+![](https://cleobuttera.com/wp-content/uploads/2018/10/slice-up-closer.jpg)
 
 plate...take a bite, then
-sigh...![](https://cleobuttera.com/wp-content/uploads/2018/10/bee-bite.jpg){.size-full
-.wp-image-6027 .aligncenter width="600" height="900"
-sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/bee-bite.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/bee-bite-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/bee-bite-400x600.jpg 400w"}
+sigh...![](https://cleobuttera.com/wp-content/uploads/2018/10/bee-bite.jpg)
 
 Now that's a honey cake, any Queen Bee will approve of.
 
-::: {#recipe}
-:::
+# Recipe
 
-::: {.section .mv-create-card .mv-create-card-10 .mv-recipe-card .mv-create-card-style-square .mv-no-js .mv-create-center-cards .mv-create-has-uppercase .mv-create-has-image}
-::: {.mv-create-wrapper}
-::: {.mv-create-title-wrap}
-[Yield: Makes one really tall 9-inch cake that serves about 16
-people]{.mv-create-yield .mv-create-uppercase}
 
-The Most Amazing Russian Honey Cake {#the-most-amazing-russian-honey-cake-1 .mv-create-title .mv-create-title-primary}
-===================================
-:::
-
-::: {.mv-pinterest-btn .mv-pinterest-btn-right mv-pinterest-desc="The%20Most%20Amazing%20Russian%20Honey%20Cake" mv-pinterest-img-src="https%3A%2F%2Fcleobuttera.com%2Fwp-content%2Fuploads%2F2018%2F10%2Ffull-ussian-mood.jpg" mv-pinterest-url="https%3A%2F%2Fcleobuttera.com%2Fcakes%2Fthe-most-amazing-russian-honey-cake%2F"}
-:::
-
-::: {.mv-create-image-container}
-![The Most Amazing Russian Honey
-Cake](https://cleobuttera.com/wp-content/uploads/2018/10/full-ussian-mood.jpg){.mv-create-image
-.no_pin .ggnoads sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://cleobuttera.com/wp-content/uploads/2018/10/full-ussian-mood.jpg 600w, https://cleobuttera.com/wp-content/uploads/2018/10/full-ussian-mood-200x300.jpg 200w, https://cleobuttera.com/wp-content/uploads/2018/10/full-ussian-mood-400x600.jpg 400w"}
-
-Print
-
-::: {#mv-create-10 .mv-create-reviews mv-create-id="10" mv-create-rating="4.5" mv-create-total-ratings="133" mv-rest-url="https://cleobuttera.com/wp-json/"}
-:::
-:::
-
-::: {.mv-create-description}
 While not difficult to make, this is a multi-step, highly involved cake
 that requires planning ahead. Please read through the instructions and
 the notes in the bottom of the recipe before starting. Note that the
@@ -396,11 +313,8 @@ some countries. If it\'s not available where you live, you can make your
 own with sweetened condensed milk. Just know that it takes 4 hours to
 cook, so plan ahead and make it as far as a month in advance. The
 finished cake, needs to chill overnight in the fridge before serving.
-:::
 
-::: {.mv-create-ingredients}
-Ingredients {#ingredients .mv-create-ingredients-title .mv-create-title-secondary}
------------
+## Ingredients
 
 ### For the Burnt Honey:
 
@@ -428,11 +342,8 @@ Ingredients {#ingredients .mv-create-ingredients-title .mv-create-title-secondar
     post](https://cleobuttera.com/pies-and-tarts/banoffee-pie-cups/)
 -   1/2 teaspoon fine salt
 -   4 3/4 cups (1.12 liters) heavy whipping cream, very cold and divided
-:::
 
-::: {.mv-create-instructions}
-Instructions {#instructions .mv-create-instructions-title .mv-create-title-secondary}
-------------
+## Instructions
 
 ### To prepare baking sheets:
 
@@ -535,13 +446,9 @@ Instructions {#instructions .mv-create-instructions-title .mv-create-title-secon
     meld into the cake layers and soften them. Slice into thin wedges
     and serve cold or at cool room temperature. Cake can be made up to
     two days in advance. Refrigerate leftovers for up to 3 days.
-:::
 
-::: {.mv-create-notes}
-Recipe Notes {#recipe-notes .mv-create-notes-title .mv-create-title-secondary}
-------------
+# Notes
 
-::: {.mv-create-notes-content}
 1.  Original recipe calls for wildflower honey, which has more floral
     notes. However, I used regular, mainstream honey, because I
     couldn\'t find it, and still ended up with stellar results.
@@ -561,9 +468,8 @@ Recipe adapted from [Treats
 SF](http://www.treats-sf.com/2018/02/russian-honey-cake.html), who
 adapted it from [New York
 Times](https://www.nytimes.com/2017/12/14/magazine/secrets-russian-honey-cake-michelle-polzine.html).
-:::
 
-::: {.disclosure}
+
 **Measurements Note:** All recipes of this site have been developed
 using weight measurements. Although US volume measurements have been
 included for your convenience, it is highly encouraged that you weigh
@@ -571,6 +477,6 @@ your ingredients using a kitchen scale to get the best possible results.
 Due to the sensitive nature of baking, kitchen scales are proven to
 yield more accurate and consistent results than measuring cups. Enjoy!
 
-# References:
+# References
 
 [1] https://cleobuttera.com/cakes/the-most-amazing-russian-honey-cake/
