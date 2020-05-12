@@ -116,9 +116,8 @@ The secret that sets this cake apart from its counterparts lies in 2
 brilliant twists rather than a special ingredient:
 
 **1)  "Adding more butter to the batter, transforming the cookie-crisp
-layers into thin, spongy cakes." [-NY Times.
- ]{style="font-size: 10pt;"}**[That makes for a softer, lighter cake
-that slices like butter.]{style="font-size: 12pt;"}
+layers into thin, spongy cakes." That makes for a softer, lighter cake
+that slices like butter.
 
 ![](https://cleobuttera.com/wp-content/uploads/2018/10/honey-stack.jpg)
 
