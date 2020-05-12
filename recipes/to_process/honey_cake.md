@@ -2,6 +2,8 @@
 The Most Amazing Russian Honey Cake
 ===================================
 
+tags: #dessert, #cake, #baking
+
 - [The Most Amazing Russian Honey Cake](#the-most-amazing-russian-honey-cake)
 - [Recipe](#recipe)
   - [Ingredients](#ingredients)
@@ -296,8 +298,8 @@ Then slice...lift...
 
 ![](https://cleobuttera.com/wp-content/uploads/2018/10/slice-up-closer.jpg)
 
-plate...take a bite, then
-sigh...![](https://cleobuttera.com/wp-content/uploads/2018/10/bee-bite.jpg)
+plate...take a bite, then sigh...!
+[](https://cleobuttera.com/wp-content/uploads/2018/10/bee-bite.jpg)
 
 Now that's a honey cake, any Queen Bee will approve of.
 
