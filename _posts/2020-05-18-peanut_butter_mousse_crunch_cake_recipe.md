@@ -6,7 +6,7 @@ categories:
   - Dessert
   - Cafe
   - Chocolate
-  - Peanut_butter
+  - Peanut Butter
   - Dominique Ansel
 featured_image: https://video-images.vice.com/test-uploads/articles/5e5eead607a0c40096283930/lede/1583278835219-pb-chocolate-crunch-cake-recipe.jpeg?crop=1xw:0.84375xh;center,center&resize=1400:*
 recipe:
