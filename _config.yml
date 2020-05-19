@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+title: Our Family Recipe Book
+url: "https://hsteinshiromoto.github.io/recipes"
 baseurl: "https://hsteinshiromoto.github.io/recipes"
 google_analytics_key:
 newsletter_action:
@@ -16,14 +16,14 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: Our Family Recipe Book
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Australia/Sydney # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 paginate: 10
 paginate_path: "/:num/"
