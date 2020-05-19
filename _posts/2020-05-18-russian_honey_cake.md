@@ -422,9 +422,6 @@ plate...take a bite, then sigh...!
 
 Now that's a honey cake, any Queen Bee will approve of.
 
-# Recipe
-
-
 While not difficult to make, this is a multi-step, highly involved cake
 that requires planning ahead. Please read through the instructions and
 the notes in the bottom of the recipe before starting. Note that the
