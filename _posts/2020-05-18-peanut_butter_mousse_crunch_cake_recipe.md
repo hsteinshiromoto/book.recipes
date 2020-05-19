@@ -8,7 +8,7 @@ categories:
   - chocolate
   - peanut_butter
   - Dominique_Ansel
-featured_image: https://source.unsplash.com/qJ0zGkrE1Zg/1560x940
+featured_image: https://video-images.vice.com/test-uploads/articles/5e5eead607a0c40096283930/lede/1583278835219-pb-chocolate-crunch-cake-recipe.jpeg?crop=1xw:0.84375xh;center,center&resize=1400:*
 recipe:
   servings: 8 people
   prep: 25 minutes
