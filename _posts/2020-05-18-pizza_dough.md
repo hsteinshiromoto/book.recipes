@@ -4,7 +4,7 @@ categories:
     - Pizza
     - Baking
 date: 2020-05-18
-featured_image: 
+featured_image: https://github.com/hsteinshiromoto/recipes/raw/master/images/pizza_dough.jpg
 recipe:
   servings: 1 person
   prep: 2 hours
