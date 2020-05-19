@@ -74,7 +74,7 @@ exclude:
 # CloudCannon
 
 social_icons:
-  - Facebook
+  # - Facebook
   - Instagram
   - LinkedIn
   - Pinterest
