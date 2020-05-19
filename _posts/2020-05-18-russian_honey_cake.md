@@ -1,24 +1,143 @@
+---
+date: 2020-05-18
+title: The Most Amazing Russian Honey Cake
+categories:
+  - Cake
+  - Dessert
+  - Honey
+featured_image: https://cleobuttera.com/wp-content/uploads/2018/10/full-ussian-mood.jpg
+recipe:
+  ingredients_markdown: |-
+    **For the Burnt Honey**
 
-The Most Amazing Russian Honey Cake
-===================================
+    * 3/4 cup (9oz/ 255g) honey (\*see note below)
+    * 1/4 cup (2oz/ 57g) water
 
-tags: #dessert, #cake, #baking
+    **For the Cake Layers**
 
-- [The Most Amazing Russian Honey Cake](#the-most-amazing-russian-honey-cake)
-- [Recipe](#recipe)
-  - [Ingredients](#ingredients)
-    - [For the Burnt Honey:](#for-the-burnt-honey)
-    - [For the Cake Layers:](#for-the-cake-layers)
-    - [For the Frosting:](#for-the-frosting)
-  - [Instructions](#instructions)
-    - [To prepare baking sheets:](#to-prepare-baking-sheets)
-    - [To make the Burnt Honey:](#to-make-the-burnt-honey)
-    - [To make the Cake Layers:](#to-make-the-cake-layers)
-    - [To make the Frosting:](#to-make-the-frosting)
-    - [To assemble the cake:](#to-assemble-the-cake)
-- [Notes](#notes)
-- [References](#references)
+    * 1/4 cup Burnt Honey (from recipe below)
+    * 3/4 cup (9oz/ 255g) honey (\*see note below)
+    * 1 cup + 2 Tablespoons (8oz/ 227g) granulated sugar
+    * 14 Tablespoons (7oz/ 199g) unsalted butter, cut into 1/2-inch pieces
+    * 6 large eggs (300g without the shells)
+    * 2 1/2 teaspoons baking soda
+    * 3/4 teaspoons fine salt
+    * 1 teaspoon ground cinnamon
+    * 3 3/4 cups (16oz/ 454g) all-purpose flour
 
+    **For the Frosting**
+
+    * 1/2 cup Burnt Honey (from recipe below)
+    * [1 1/4 cups (one 13.4oz/ 380g can) dulce de leche (storebought or
+    prepared from 1 (14oz/ 397g) can of sweetened condensed milk as per
+    recipe in this linkable
+    post](https://cleobuttera.com/pies-and-tarts/banoffee-pie-cups/)
+    * 1/2 teaspoon fine salt
+    * 4 3/4 cups (1.12 liters) heavy whipping cream, very cold and divided
+
+  directions_markdown: |-
+    **To Prepare Baking Sheets**
+
+    1.  Adjust oven rack to middle position and preheat oven to 180C/375F.
+    2.  Line 2 or 3 (or more) baking sheets with see-through silicon mats.
+        On a large piece of paper, trace a circle around a 9-inch pie or
+        cake pan and place the paper underneath one of the silicon mats. If
+        you don\'t have silicon mats, trace the 9-inch circles directly onto
+        11 baking-sheet-size pieces of parchment paper. Place a piece of
+        parchment tracing-side-down on a baking sheet. Set aside.
+
+    **To make the Burnt Honey**
+
+    1.  Place 3/4 cup of honey in a 2-quart saucepan, and set over high
+        heat. Bring to a simmer, then reduce the heat to medium. Cook the
+        honey, stirring occasionally with a heat-proof spatula, until it the
+        color darkens and turns from pale yellow to dark amber; about 3
+        minutes. Turn off the heat and carefully add 1/4 cup water. Allow
+        the honey to sputter until it stops bubbling, then whisk to combine.
+        Transfer to a heatproof measuring cup with a spout, and set aside.
+
+    **To make the Cake Layers**
+
+    1.  Fill a medium saucepan with 2 inches of water, and bring to a
+        simmer. Combine 1/4 cup burned honey, 3/4 cup honey, sugar and
+        butter in a large heat-proof bowl, and place over the pot of water,
+        making sure the simmering water is not touching the bottom of the
+        bowl.
+    2.  Crack eggs into a small bowl, and set aside. Stir together baking
+        soda, salt and cinnamon in a separate small bowl.
+    3.  Gently stir the honey/butter mixture until the butter has melted,
+        then whisk well to combine. Use your finger to test the temperature
+        of the mixture. When it's warm, add the eggs while whisking. When
+        the mixture returns to the same temperature, add the cinnamon
+        mixture, and continue whisking for another 30 seconds. The batter
+        will begin to foam and emit a curious odor. Remove the bowl from the
+        heat, and allow it to cool until it's warm.
+    4.  Place the flour in a fine-mesh sieve, and sift over the batter in
+        three batches, whisking to incorporate the flour completely with
+        each addition, until completely smooth. The batter will spread more
+        easily when it's warm, so place the bowl in a warm spot, such as
+        atop the preheating oven or over the pan of simmering water (off
+        heat).
+    5.  Spoon a heaping 1/3 cup of batter over the prepared silicon mat or
+        parchment paper. Use an offset spatula to evenly spread the batter
+        to the edges of the traced circle. Make sure that the entire circle
+        is well covered, otherwise, add a little more batter in patchy areas
+        and smooth out.
+    6.  If using silicon mats, carefully slide the paper with the traced
+        circle from underneath the silicon mat and place under another one.
+        Repeat spooning and smoothing remaining batter until you're out of
+        baking sheets. Ultimately, you should end up with 11 layers.
+    7.  As you continue spreading the remaining batter on the baking sheets,
+        bake as many layers at a time as possible, for 6 to 7 minutes, until
+        the cake turns a deep caramel color, springs back at the touch and a
+        toothpick inserted in the center comes out clean. Do not overbake!
+    8.  When each layer is done, slide the silicon mat or parchment off the
+        baking sheet to prevent overbaking. If reusing baking sheets while
+        they are still hot, reduce cooking time to 5 to 6 minutes.
+    9.  When the cake layers are cool enough to handle, examine them. If any
+        spread outside the traced circles as they baked, use a sharp knife
+        or pair of scissors to trim them. Don\'t throw away the trimmings.
+        Before the cakes cool entirely, pull each one carefully from the
+        silicon mat or parchment, then place back on the parchment or wire
+        rack on a flat surface, and allow to cool completely.
+    10. When all the layers are baked, reduce the oven temperature to
+        120C/250F, and return the least attractive layer (and trimmings) to
+        a baking sheet, and place in the oven to toast until deep reddish
+        brown and dry, about 15 minutes. Allow it to cool, then use a food
+        processor to grind into fine crumbs. Cover and set aside.
+
+    **To make the Frosting**
+
+    1.  Place 1/2 cup burned honey, dulce de leche and 1/2 teaspoon fine
+        salt into a medium bowl. Whisk by hand until combined, then slowly
+        pour in 3/4 cup cream and mix until homogeneous. Chill until
+        completely cooled, about 30 minutes.
+    2.  Pour 4 cups heavy cream into the bowl (preferring chilled) of a
+        stand mixer, with the whisk attachment. Whip at medium speed to soft
+        peaks, about 6 minutes, then add honey mixture and whip to medium
+        stiff peaks. If your mixer holds less than 5 quarts, make frosting
+        in 2 batches and then combine in a large bowl, or use a large bowl
+        and a hand mixer.
+
+    **To assemble the cake**
+
+    1.  Assemble the cake on a 10-inch cardboard circle or flat serving
+        plate. Place a cake layer in the center of the cardboard, then spoon
+        a heaping cup of frosting onto the center. Use an offset spatula to
+        spread the frosting evenly, leaving a 1/4-inch ring around the edge.
+        Continue with alternating layers of cake and frosting, ending the
+        last layer with frosting. Use any leftover frosting to smooth out
+        the sides of the cake, but don't worry if the edges of some cake
+        layers poke through the frosting; they\'re gonna be covered up
+        anyway. You should use up all the frosting.
+    2.  Place the frosted cake on a rimmed baking sheet and use your hands
+        to press the sides with the reserved toasted cake crumbs. You could
+        cover the top too if you prefer.
+    3.  Chill the cake in the fridge overnight to give the frosting time to
+        meld into the cake layers and soften them. Slice into thin wedges
+        and serve cold or at cool room temperature. Cake can be made up to
+        two days in advance. Refrigerate leftovers for up to 3 days.
+---
 The ultimate recipe for Russia's famous Honey Cake, that you're
 likely to encounter.  Ten layers of soft, caramelized honey cakes that
 taste like the fine marriage of Lotus biscuits, honey graham crackers
@@ -314,139 +433,6 @@ some countries. If it\'s not available where you live, you can make your
 own with sweetened condensed milk. Just know that it takes 4 hours to
 cook, so plan ahead and make it as far as a month in advance. The
 finished cake, needs to chill overnight in the fridge before serving.
-
-## Ingredients
-
-### For the Burnt Honey:
-
--   3/4 cup (9oz/ 255g) honey (\*see note below)
--   1/4 cup (2oz/ 57g) water
-
-### For the Cake Layers:
-
--   1/4 cup Burnt Honey (from recipe below)
--   3/4 cup (9oz/ 255g) honey (\*see note below)
--   1 cup + 2 Tablespoons (8oz/ 227g) granulated sugar
--   14 Tablespoons (7oz/ 199g) unsalted butter, cut into 1/2-inch pieces
--   6 large eggs (300g without the shells)
--   2 1/2 teaspoons baking soda
--   3/4 teaspoons fine salt
--   1 teaspoon ground cinnamon
--   3 3/4 cups (16oz/ 454g) all-purpose flour
-
-### For the Frosting:
-
--   1/2 cup Burnt Honey (from recipe below)
--   [1 1/4 cups (one 13.4oz/ 380g can) dulce de leche (storebought or
-    prepared from 1 (14oz/ 397g) can of sweetened condensed milk as per
-    recipe in this linkable
-    post](https://cleobuttera.com/pies-and-tarts/banoffee-pie-cups/)
--   1/2 teaspoon fine salt
--   4 3/4 cups (1.12 liters) heavy whipping cream, very cold and divided
-
-## Instructions
-
-### To prepare baking sheets:
-
-1.  Adjust oven rack to middle position and preheat oven to 180C/375F.
-2.  Line 2 or 3 (or more) baking sheets with see-through silicon mats.
-    On a large piece of paper, trace a circle around a 9-inch pie or
-    cake pan and place the paper underneath one of the silicon mats. If
-    you don\'t have silicon mats, trace the 9-inch circles directly onto
-    11 baking-sheet-size pieces of parchment paper. Place a piece of
-    parchment tracing-side-down on a baking sheet. Set aside.
-
-### To make the Burnt Honey:
-
-1.  Place 3/4 cup of honey in a 2-quart saucepan, and set over high
-    heat. Bring to a simmer, then reduce the heat to medium. Cook the
-    honey, stirring occasionally with a heat-proof spatula, until it the
-    color darkens and turns from pale yellow to dark amber; about 3
-    minutes. Turn off the heat and carefully add 1/4 cup water. Allow
-    the honey to sputter until it stops bubbling, then whisk to combine.
-    Transfer to a heatproof measuring cup with a spout, and set aside.
-
-### To make the Cake Layers:
-
-1.  Fill a medium saucepan with 2 inches of water, and bring to a
-    simmer. Combine 1/4 cup burned honey, 3/4 cup honey, sugar and
-    butter in a large heat-proof bowl, and place over the pot of water,
-    making sure the simmering water is not touching the bottom of the
-    bowl.
-2.  Crack eggs into a small bowl, and set aside. Stir together baking
-    soda, salt and cinnamon in a separate small bowl.
-3.  Gently stir the honey/butter mixture until the butter has melted,
-    then whisk well to combine. Use your finger to test the temperature
-    of the mixture. When it's warm, add the eggs while whisking. When
-    the mixture returns to the same temperature, add the cinnamon
-    mixture, and continue whisking for another 30 seconds. The batter
-    will begin to foam and emit a curious odor. Remove the bowl from the
-    heat, and allow it to cool until it's warm.
-4.  Place the flour in a fine-mesh sieve, and sift over the batter in
-    three batches, whisking to incorporate the flour completely with
-    each addition, until completely smooth. The batter will spread more
-    easily when it's warm, so place the bowl in a warm spot, such as
-    atop the preheating oven or over the pan of simmering water (off
-    heat).
-5.  Spoon a heaping 1/3 cup of batter over the prepared silicon mat or
-    parchment paper. Use an offset spatula to evenly spread the batter
-    to the edges of the traced circle. Make sure that the entire circle
-    is well covered, otherwise, add a little more batter in patchy areas
-    and smooth out.
-6.  If using silicon mats, carefully slide the paper with the traced
-    circle from underneath the silicon mat and place under another one.
-    Repeat spooning and smoothing remaining batter until you're out of
-    baking sheets. Ultimately, you should end up with 11 layers.
-7.  As you continue spreading the remaining batter on the baking sheets,
-    bake as many layers at a time as possible, for 6 to 7 minutes, until
-    the cake turns a deep caramel color, springs back at the touch and a
-    toothpick inserted in the center comes out clean. Do not overbake!
-8.  When each layer is done, slide the silicon mat or parchment off the
-    baking sheet to prevent overbaking. If reusing baking sheets while
-    they are still hot, reduce cooking time to 5 to 6 minutes.
-9.  When the cake layers are cool enough to handle, examine them. If any
-    spread outside the traced circles as they baked, use a sharp knife
-    or pair of scissors to trim them. Don\'t throw away the trimmings.
-    Before the cakes cool entirely, pull each one carefully from the
-    silicon mat or parchment, then place back on the parchment or wire
-    rack on a flat surface, and allow to cool completely.
-10. When all the layers are baked, reduce the oven temperature to
-    120C/250F, and return the least attractive layer (and trimmings) to
-    a baking sheet, and place in the oven to toast until deep reddish
-    brown and dry, about 15 minutes. Allow it to cool, then use a food
-    processor to grind into fine crumbs. Cover and set aside.
-
-### To make the Frosting:
-
-1.  Place 1/2 cup burned honey, dulce de leche and 1/2 teaspoon fine
-    salt into a medium bowl. Whisk by hand until combined, then slowly
-    pour in 3/4 cup cream and mix until homogeneous. Chill until
-    completely cooled, about 30 minutes.
-2.  Pour 4 cups heavy cream into the bowl (preferring chilled) of a
-    stand mixer, with the whisk attachment. Whip at medium speed to soft
-    peaks, about 6 minutes, then add honey mixture and whip to medium
-    stiff peaks. If your mixer holds less than 5 quarts, make frosting
-    in 2 batches and then combine in a large bowl, or use a large bowl
-    and a hand mixer.
-
-### To assemble the cake:
-
-1.  Assemble the cake on a 10-inch cardboard circle or flat serving
-    plate. Place a cake layer in the center of the cardboard, then spoon
-    a heaping cup of frosting onto the center. Use an offset spatula to
-    spread the frosting evenly, leaving a 1/4-inch ring around the edge.
-    Continue with alternating layers of cake and frosting, ending the
-    last layer with frosting. Use any leftover frosting to smooth out
-    the sides of the cake, but don't worry if the edges of some cake
-    layers poke through the frosting; they\'re gonna be covered up
-    anyway. You should use up all the frosting.
-2.  Place the frosted cake on a rimmed baking sheet and use your hands
-    to press the sides with the reserved toasted cake crumbs. You could
-    cover the top too if you prefer.
-3.  Chill the cake in the fridge overnight to give the frosting time to
-    meld into the cake layers and soften them. Slice into thin wedges
-    and serve cold or at cool room temperature. Cake can be made up to
-    two days in advance. Refrigerate leftovers for up to 3 days.
 
 # Notes
 
