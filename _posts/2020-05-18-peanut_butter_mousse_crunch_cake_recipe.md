@@ -12,7 +12,7 @@ featured_image: https://video-images.vice.com/test-uploads/articles/5e5eead607a0
 recipe:
   servings: 8 people
   prep: 25 minutes
-  total time: 2 hours
+  cook: 2 hours
   ingredients_markdown: |-
     **Chocolate Caramelized Puffed Rice**
 
