@@ -8,7 +8,7 @@ featured_image: https://raw.github.com/hsteinshiromoto/recipes/master/images/piz
 recipe:
   servings: 1 person
   prep: 2 hours
-  cook: 30 minutes
+  cook: 7 minutes
   ingredients_markdown: |-
     **English**
       * 250g Bread Flour*
