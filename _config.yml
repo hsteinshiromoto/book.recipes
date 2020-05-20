@@ -9,7 +9,7 @@ newsletter_action:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: logo.svg
+logo: images/logo.svg
 description: Food blog template for Jekyll.
 author:
   name:
