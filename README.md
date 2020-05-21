@@ -44,6 +44,12 @@ Run `jekyll` commands through Bundler to ensure you're using the right versions:
 $ bundle exec jekyll serve
 ~~~
 
+## Scraping website with Pandoc to convert to markdown
+
+```
+$ pandoc -s -r html <website_address>  -o <output_file>.md
+```
+
 ## Editing
 
 Treat is already optimised for adding, updating and removing recipes, navigation, page content, and sidebar information in CloudCannon.
