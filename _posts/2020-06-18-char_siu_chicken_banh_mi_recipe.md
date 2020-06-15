@@ -1,5 +1,5 @@
 ---
-
+date: 2020-06-18
 title: "Char Siu Chicken Banh Mi Recipe"
 featured_image: https://video-images.vice.com/articles/5cc714ca9f1bd400072c26a5/lede/1556740921720-banh-mi-sandwich-andrea-recipe.jpeg?crop=1xw:0.8427xh;0xw,0.0008xh&resize=700:*
 categories:
