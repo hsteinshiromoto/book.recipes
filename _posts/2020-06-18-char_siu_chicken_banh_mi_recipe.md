@@ -94,3 +94,6 @@ leaves, or basil leaves
 
 Photo by Farideh Sadeghin
 
+# References:
+
+[1] https://www.vice.com/en_us/article/gy4qq7/char-siu-chicken-banh-mi-recipe
