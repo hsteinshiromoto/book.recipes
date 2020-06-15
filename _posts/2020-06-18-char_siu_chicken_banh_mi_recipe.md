@@ -56,24 +56,14 @@ leaves, or basil leaves
     directions_markdown: |-
         **1. Viet pickle**
 
-        1.1. Make the Viet pickle: Peel and cut the daikon into sticks about 3
-        inches long and 1/4 inch thick (the width of an average chopstick). Peel
-        and cut the carrot into sticks a little skinnier than the daikon.
+        1.1. Make the Viet pickle: Peel and cut the daikon into sticks about 3 inches long and 1/4 inch thick (the width of an average chopstick). Peel and cut the carrot into sticks a little skinnier than the daikon.
 
-        1.2. Put both vegetables in a bowl and toss with the salt and 2 teaspoons
-        sugar. Massage and knead for 3 minutes, or set aside for 20 minutes,
-        until you can bend a piece of daikon so the tips touch without breaking.
-        They will have lost about a quarter of their original volume.
+        1.2. Put both vegetables in a bowl and toss with the salt and 2 teaspoons sugar. Massage and knead for 3 minutes, or set aside for 20 minutes, until you can bend a piece of daikon so the tips touch without breaking. They will have lost about a quarter of their original volume.
 
         1.3. Rinse the vegetables with water, drain in a mesh strainer or
-        colander, and press or shake to expel excess water. Transfer to a 4-cup
-        jar.
+        colander, and press or shake to expel excess water. Transfer to a 4-cup jar.
 
-        1.4. In a medium bowl, stir together the remaining 1/2 cup sugar with the
-        vinegar and 1 cup water until dissolved. Pour enough of the liquid into
-        the jar to cover the vegetables, discard any excess, and let sit for 1
-        hour. Use immediately, or refrigerate for up to 1 month.
-
+        1.4. In a medium bowl, stir together the remaining 1/2 cup sugar with the vinegar and 1 cup water until dissolved. Pour enough of the liquid into the jar to cover the vegetables, discard any excess, and let sit for 1 hour. Use immediately, or refrigerate for up to 1 month.
 
         **2. Prepare the char siu chicken**
         
