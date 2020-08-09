@@ -13,25 +13,30 @@ recipe:
   prep: 2 hours
   cook: 12 hours
   ingredients_markdown: |-
-  -
-* Bacon thinly sliced, about 0.5 package, as needed
-* 2.5g Yellow mustard seed
-* 2.5g Coriander seed
-* 1.5g Black pepper
-* 1.3g Allspice
-* 0.75g Clove
-* 15g Salt
-* 1.5g Prague Powder No. 1
-* 550g Pork shoulder
-* 200g Pork liver
-* 150g Slab bacon for the filling
-* 37.5g Bread such as sourdough, crust removed
-* 50g Eggs about 1 whole 
-* 37.5g Milk whole
-* Cold water, as needed
-* Ice, as needed
-* 75g Dried cherries
-* 40g Sauternes or other dessert wine
-* 1.5g Thyme, fresh, chopped
+    * Bacon thinly sliced, about 0.5 package, as needed
+    * 2.5g Yellow mustard seed
+    * 2.5g Coriander seed
+    * 1.5g Black pepper
+    * 1.3g Allspice
+    * 0.75g Clove
+    * 15g Salt
+    * 1.5g Prague Powder No. 1
+    * 550g Pork shoulder
+    * 200g Pork liver
+    * 150g Slab bacon for the filling
+    * 37.5g Bread such as sourdough, crust removed
+    * 50g Eggs about 1 whole 
+    * 37.5g Milk whole
+    * Cold water, as needed
+    * Ice, as needed
+    * 75g Dried cherries
+    * 40g Sauternes or other dessert wine
+    * 1.5g Thyme, fresh, chopped
+
+  directions_markdown: |-
+    ** 1. Make the Filling **
+
+    * Bacon, thinly sliced, about 0.5 package, as needed
+    * Before you start cooking, place thinly sliced bacon (for the lining) and grinder parts in the freezer. We aren’t freezing them through here, just getting them real chill so they are easy to work with.
 ---
 
