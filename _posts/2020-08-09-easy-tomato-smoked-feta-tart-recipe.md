@@ -30,19 +30,19 @@ recipe:
 
     ![](https://static.seriouseats.com/1/braestar/live/img/placeholder-entry-image.png)
 
-    1.  Place beefsteak tomato slices and halved cherry tomatoes in a single layer on a baking sheet lined with two layers of paper towels or a clean kitchen towel. Season with salt. Flip tomatoes and season second side. Set aside for 15 minutes, then blot excess liquid with more paper towels.
+    2.  Place beefsteak tomato slices and halved cherry tomatoes in a single layer on a baking sheet lined with two layers of paper towels or a clean kitchen towel. Season with salt. Flip tomatoes and season second side. Set aside for 15 minutes, then blot excess liquid with more paper towels.
 
     ![](https://static.seriouseats.com/1/braestar/live/img/placeholder-entry-image.png)
 
-    1.  Carefully roll out cold pie dough into a circle that overlaps a 10-inch fluted tart pan. Use your rolling pin to carefully transfer dough to pan. Push it into corners with your fingertips and trim off excess with a butter knife. Transfer to freezer for 5 minutes.
+    3.  Carefully roll out cold pie dough into a circle that overlaps a 10-inch fluted tart pan. Use your rolling pin to carefully transfer dough to pan. Push it into corners with your fingertips and trim off excess with a butter knife. Transfer to freezer for 5 minutes.
 
     ![](https://static.seriouseats.com/1/braestar/live/img/placeholder-entry-image.png)
 
-    1.  Remove tart crust from freezer. Using the back of a spoon, spread mustard evenly over bottom surface. Layer tomatoes into tart crust, fitting them as tightly together as possible. Drain smoky feta cheese and crumble over the top. Season with black pepper. Drizzle with 2 tablespoons extra-virgin olive oil and sprinkle with oregano, marjoram, and/or thyme leaves.
+    4.  Remove tart crust from freezer. Using the back of a spoon, spread mustard evenly over bottom surface. Layer tomatoes into tart crust, fitting them as tightly together as possible. Drain smoky feta cheese and crumble over the top. Season with black pepper. Drizzle with 2 tablespoons extra-virgin olive oil and sprinkle with oregano, marjoram, and/or thyme leaves.
 
     ![](https://static.seriouseats.com/1/braestar/live/img/placeholder-entry-image.png)
 
-    1.  Transfer tart to oven and bake until bottom is well browned and crisp and top is sizzling, with tomatoes and cheese lightly browned and most of the liquid evaporated, about 1 hour. Remove from oven and let cool to room temperature. Sprinkle with remaining herbs, drizzle with a little more olive oil, and serve.
+    5.  Transfer tart to oven and bake until bottom is well browned and crisp and top is sizzling, with tomatoes and cheese lightly browned and most of the liquid evaporated, about 1 hour. Remove from oven and let cool to room temperature. Sprinkle with remaining herbs, drizzle with a little more olive oil, and serve.
 
     ![](https://static.seriouseats.com/1/braestar/live/img/placeholder-entry-image.png)
 ---
