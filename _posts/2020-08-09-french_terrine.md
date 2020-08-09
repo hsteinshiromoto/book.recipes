@@ -1,37 +1,37 @@
 ---
-ROBOTS: NOINDEX
-apple-itunes-app: 'app-id=970115018,
-  affiliate-data=at=10lIEQ&ct=MWSmartBanneriPhone'
-apple-mobile-web-app-title:
-- ChefSteps
-- ChefSteps
-google-signin-cookiepolicy: single\_host\_origin
-google-site-verification: zaV8aQl8p4mWRpDlE0g7fskT\_IQ43Z42rsHq0QchNNk
-google-translate-customization: 'd64492c5d22d7921-60170f9c9b7267c6-g7179c5f7a7e64573-d'
-msapplication-TileColor: '\#da532c'
-msapplication-TileImage: 'https://d92f495ogyf88.cloudfront.net/favicons/mstile-144x144.png?v=yyy4wNKzaA'
-prerender-status-code: 404
-theme-color: '\#ffffff'
-viewport: 'initial-scale=1, maximum-scale=1, user-scalable=no,
-  width=device-width'
+date: 2020-08-09
+title: French Terrine
+author: ChefSteps
+categories:
+  - Pate
+  - French
+  - Pork
+  - ChefSteps
+featured_image: https://d3awvtnmmsvyot.cloudfront.net/api/file/lJIzlnFSSomkHyaIGYbH/convert?fit=max&w=1150&quality=60&cache=true&rotate=exif&compress=true
+recipe:
+  servings: 2 terrines
+  prep: 2 hours
+  cook: 12 hours
+  ingredients_markdown: |-
+  -
+* Bacon thinly sliced, about 0.5 package, as needed
+* 2.5g Yellow mustard seed
+* 2.5g Coriander seed
+* 1.5g Black pepper
+* 1.3g Allspice
+* 0.75g Clove
+* 15g Salt
+* 1.5g Prague Powder No. 1
+* 550g Pork shoulder
+* 200g Pork liver
+* 150g Slab bacon for the filling
+* 37.5g Bread such as sourdough, crust removed
+* 50g Eggs about 1 whole 
+* 37.5g Milk whole
+* Cold water, as needed
+* Ice, as needed
+* 75g Dried cherries
+* 40g Sauternes or other dessert wine
+* 1.5g Thyme, fresh, chopped
 ---
 
-::: {.nav-spacer}
-:::
-
-::: {.cs-icons-sprite-sheet}
-:::
-
-::: {ui-view="nav"}
-:::
-
-::: {#mainView anim-speed="250" ng-class="{'show-flag': app.showFlag}" ng-cloak="" ui-view="main"}
-:::
-
-::: {.anim-slide-below-fade ui-view="footer"}
-:::
-
-::: {ng-controller="CookieConsentController as cookieConsentController" style="background: #383736"}
-![](https://secure.adnxs.com/px?id=1086499&seg=17231670&redir=https%3A%2F%2Fpixel.mediaiqdigital.com%2Fpixel%3F%26u3%3D%26u4%3D%26pixel_id%3D1086499%26uid%3D%24%7BUID%7D&t=2){width="1"
-height="1"}
-:::
