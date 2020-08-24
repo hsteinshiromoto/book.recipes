@@ -154,6 +154,8 @@ recipe:
 
 Making pâté at home isn’t difficult, but it is a project. Cooking it the traditional way can be a little frustrating, because you can work through a bunch of steps to prep the thing just right, then overcook it all too easily. Here, we get around that risk by cooking the pâté sous vide, ensuring that it emerges exactly the way we like it. Read on for the full five-step process of making an incredible rustic pâté that’s far less expensive than the stuff at your favorite specialty grocery—but with a texture and flavor that blow the store-bought stuff right out of the water.
 
+* How long will this stuff last in the fridge? About a month.
+
 # Reference
 
 [https://www.chefsteps.com/activities/million-dollar-country-pate-a-simple-recipe-that-looks-and-tastes-like-a-million-bucks](https://www.chefsteps.com/activities/million-dollar-country-pate-a-simple-recipe-that-looks-and-tastes-like-a-million-bucks)
