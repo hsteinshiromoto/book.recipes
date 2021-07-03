@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "ab817aa0ce38bd1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d58e8cd37eb0c1b4",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06de37767a129b87",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d49bd6cd1215f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34eca7f2c47fe66c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0cd61bee1e3996c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7dc4865e1ab781f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ce1fdd9255efb25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9839ca274018638",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d58e8cd37eb0c1b4",
+  "lastOpenFiles": [
+    "recipes/chicken stir fry.md",
+    "recipes/roasted chicken.md",
+    "ingredients/rice.md",
+    "chicken.md",
+    "rice.md",
+    "ginger.md",
+    "spring onion.md",
+    "recipes/potato and peas curry.md",
+    "potato and peas curry.md",
+    "plans/roast chicken week.md"
+  ]
+}
